@@ -1,0 +1,11 @@
+{
+  "name": "SIAP-GURU SMPN 4 Tinggimoncong - Presensi Kehadiran Online",
+  "description": "Sistem Presensi Kehadiran Guru & Tenaga Kependidikan SMPN 4 Tinggimoncong Dinas Pendidikan Kab. Gowa dilengkapi GPS Maps, Verifikasi Foto Live, Rekap Perorangan & Bulanan.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
